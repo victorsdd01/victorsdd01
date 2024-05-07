@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Arduino and flutter**
 
-- 🌱 I’m currently learning **Reac.js, Reac native, Swfit, Swift ui, kotlin, typescript**
+- 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **Flutter, vue.js, dart**
+- 💬 Ask me about **Flutter, vue.js, dart, typescript**
 
 - 📫 How to reach me **victormanuel.1517@hotmail.com**
 
