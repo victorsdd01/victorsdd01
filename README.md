@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **Flutter, vue.js, dart, typescript**
+- 💬 Ask me about **Flutter, vue.js, dart, React.js, typescript**
 
 - 📫 How to reach me **victormanuel.1517@hotmail.com**
 
